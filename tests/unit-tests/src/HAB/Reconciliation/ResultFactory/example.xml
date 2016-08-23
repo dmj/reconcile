@@ -1,0 +1,7 @@
+<result xmlns="http://example.org/ns/1">
+  <record>
+    <score>1.31</score>
+    <name ns2:id="0xdeadbeef" xmlns:ns2="http://example.org/ns/2">Made up example record</name>
+  </record>
+</result>
+      

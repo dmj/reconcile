@@ -1,0 +1,21 @@
+{
+    "name": "hab/reconcile",
+    "description": "HAB Reconciliation Services",
+    "keywords": ["open refine", "reconciliation"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "David Maus",
+            "email": "maus@hab.de",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "HAB": "src/"
+        }
+    },
+    "require": {
+        "symfony/http-foundation": "~3.0"
+    }
+}
