@@ -17,7 +17,7 @@
  * along with HAB Reconciliation Services.  If not, see <http://www.gnu.org/licenses/>.
  *
  * @author    David Maus <maus@hab.de>
- * @copyright (c) 2016,2017 by Herzog August Bibliothek Wolfenbüttel
+ * @copyright (c) 2016-2019 by Herzog August Bibliothek Wolfenbüttel
  * @license   http://www.gnu.org/licenses/gpl.txt GNU General Public License v3 or higher
  */
 
@@ -27,7 +27,7 @@ namespace HAB\Reconciliation;
  * Manage a service description.
  *
  * @author    David Maus <maus@hab.de>
- * @copyright (c) 2016,2017 by Herzog August Bibliothek Wolfenbüttel
+ * @copyright (c) 2016-2019 by Herzog August Bibliothek Wolfenbüttel
  * @license   http://www.gnu.org/licenses/gpl.txt GNU General Public License v3 or higher
  */
 trait ServiceDescriptionTrait

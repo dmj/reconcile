@@ -17,7 +17,7 @@
  * along with HAB Reconciliation Services.  If not, see <http://www.gnu.org/licenses/>.
  *
  * @author    David Maus <maus@hab.de>
- * @copyright (c) 2017 by Herzog August Bibliothek Wolfenbüttel
+ * @copyright (c) 2017-2019 by Herzog August Bibliothek Wolfenbüttel
  * @license   http://www.gnu.org/licenses/gpl.txt GNU General Public License v3 or higher
  */
 
@@ -30,7 +30,7 @@ use HAB\Reconciliation\Result;
  * Reconciliation service that uses a callback for query execution.
  *
  * @author    David Maus <maus@hab.de>
- * @copyright (c) 2017 by Herzog August Bibliothek Wolfenbüttel
+ * @copyright (c) 2017-2019 by Herzog August Bibliothek Wolfenbüttel
  * @license   http://www.gnu.org/licenses/gpl.txt GNU General Public License v3 or higher
  */
 class CallbackService extends AbstractService
